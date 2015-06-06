@@ -1,5 +1,5 @@
 ﻿=== shopwelt.de Widget ===
-Contributors: evendi.de
+Contributors: eVendi GmbH & Co. KG
 Donate link: https://www.shopwelt.de/
 Tags: Preisvergleich, Preis, Price Comparison, Affiliate
 Requires at least: 3.0.1
