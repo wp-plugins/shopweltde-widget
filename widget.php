@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /*
 Plugin Name: shopwelt.de-Widget 
 Plugin URI: https://www.shopwelt.de/

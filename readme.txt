@@ -1,4 +1,4 @@
-﻿=== shopwelt.de Widget ===
+=== shopwelt.de Widget ===
 Contributors: eVendi.de
 Donate link: https://www.shopwelt.de/
 Tags: Preisvergleich, Preis, Price Comparison, Affiliate
